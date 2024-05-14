@@ -1,3 +1,3 @@
-### Hi 👋
+# Hi 👋
 ## This is Thang!
 
