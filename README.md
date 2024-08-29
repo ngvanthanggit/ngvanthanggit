@@ -1,3 +1,2 @@
-# Hi 👋
-## This is Thang!
+# Ricola 🍭🍬
 
